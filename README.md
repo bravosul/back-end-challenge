@@ -37,7 +37,7 @@ Informações devem ser persistidas em um banco de dados da sua preferência.
 aplicação localmente.
 
 ## Como entregar?
-O código deve ser entregue em um repositório GIT, deve conter um arquivo de como executar a aplicação (exemplo: README.md).
+O código deve ser entregue em um repositório Git Público.
 
 ## Prazo de entrega?
 48 horas
