@@ -3,7 +3,7 @@
 ## Desafio
 Digamos que você trabalha para uma Livraria Online, onde é possível verificar todos dados dos livros que você está emprestado ou livros que gostaria de realizar uma reserva. Nosso tempo de reserva do livro é 3 dias.
 
-**Operações esperadas no nosso backend:**
+### Operações esperadas no nosso backend:
 
 Listagem de livros emprestados:
 - /client/{id_client}/books
@@ -17,13 +17,13 @@ Ao retornar os livros emprestados, verificar de acordo com a regra sobre dias de
 | Acima 3 dias | 5% | 0.4% |
 | Acima 5 dias | 7% | 0.6% |
 
-**Reserva de Livro:**
+#### Reserva de Livro:
 - /books/{id}/reserve
     - Reserva de livro
 
 Reserva de livro passando o id do livro que gostaria de fazer a reserva.
 
-**Listagem de livros:**
+#### Listagem de livros:
 - /books
     - Retornar todos livros
 
