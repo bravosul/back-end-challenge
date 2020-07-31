@@ -5,7 +5,7 @@ Digamos que você trabalha para uma Livraria Online, onde é possível verificar
 
 ### Operações esperadas no nosso backend:
 
-Listagem de livros emprestados:
+#### Listagem de livros emprestados:
 - /client/{id_client}/books
     - Lista de livros emprestados
 
@@ -45,7 +45,7 @@ O código deve ser entregue em um repositório GIT, deve conter um arquivo de co
 ## O que estamos avaliando?
 Sua capacidade de analisar, projetar e codificar uma solução guiando-se com Design Orientado a Objetos e Princípios de Orientação a Objetos.
 
-**Outras coisas:**
+### Outras coisas:
 - Apresentação das informações solicitadas de forma clara e objetiva
 - Organização do código
 - Flexibilidade do sistema para adição/remoção de funcionalidades - Testes
