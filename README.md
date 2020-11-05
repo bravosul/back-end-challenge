@@ -32,7 +32,7 @@ Deve retornar todos livros cadastrados e também o seu status, o livro pode esta
 Informações devem ser persistidas em um banco de dados da sua preferência.
 
 ## O que entregar?
-* Uma API Rest desenvolvida em Python.
+* Uma API Rest desenvolvida na linguagem solicitada.
 * Entregar **um arquivo instrucoes.txt ou README.md** do processo para executar a
 aplicação localmente.
 
